@@ -15,6 +15,12 @@ A lightweight, command-line Python app that fetches and filters the latest techn
 
 ---
 
+## 📸 Preview
+
+![Tech News Aggregator CLI Screenshot](news-aggregator-demo.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3  
