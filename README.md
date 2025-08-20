@@ -47,17 +47,13 @@ tech-news-aggregator/
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ```bash
    git clone https://github.com/Ek-Coder-Tech/tech-news-aggregator.git
    cd tech-news-aggregator
-
 2. **Install dependencies**
 pip install -r requirements.txt
-
 3. **Create a .env file based on the included .env.example:**
 	NEWS_API_KEY=your_actual_key_here
 	NEWS_API_URL=https://newsapi.org/v2/everything
-
 4. **Run the app**
 	python main.py
 
@@ -77,18 +73,12 @@ pip install -r requirements.txt
 💼 Use Case & Value
 
 This project showcases skills clients often look for on platforms like Upwork:
-
-Integrating third-party APIs
-
-Automating news/report generation
-
-Secure handling of API keys
-
-Producing exportable data formats
-
-Writing testable, modular code
-
-It's a great starting point for monitoring tools, custom scrapers, or CLI automation utilities.
+- Integrating third-party APIs
+- Automating news/report generation
+- Secure handling of API keys
+- Producing exportable data formats
+- Writing testable, modular code
+- It's a great starting point for monitoring tools, custom scrapers, or CLI automation utilities.
 
 ---
 
